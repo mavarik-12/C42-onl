@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="932d4c4f-628b-4933-99ca-934e2809bf5f" name="Изменения" comment="MyMain.java">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/amplicode-jpa.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C42-onl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="932d4c4f-628b-4933-99ca-934e2809bf5f" name="Изменения" comment="">
+      <change afterPath="$PROJECT_DIR$/src/homework_3/MyFlowOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mavarik-12&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mavarik-12/C42-onl.git&quot;,
+    &quot;accountId&quot;: &quot;e02f2ae1-4d05-4411-966a-f1c5e3733e54&quot;
+  }
+}</component>
   <component name="GradleModuleStateConfig" initialized="true" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -74,12 +79,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
     &quot;Приложение.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Приложение.EvenNumberOrNot_3.executor&quot;: &quot;Run&quot;,
     &quot;Приложение.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Приложение.MyFlowOperators.executor&quot;: &quot;Run&quot;,
     &quot;Приложение.MyMain.executor&quot;: &quot;Run&quot;,
     &quot;Приложение.SumOfDigitsOfTwoDigit.executor&quot;: &quot;Run&quot;
   }
 }</component>
-  <component name="RunManager" selected="Приложение.MyMain">
+  <component name="RunManager" selected="Приложение.MyFlowOperators">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson_2_git_init_java.Calculator" />
       <module name="C42-onl" />
@@ -93,9 +100,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="MyFlowOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_3.MyFlowOperators" />
       <module name="C42-onl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,6 +119,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson_2_git_init_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mymain_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_3.Mymain_3" />
+      <module name="C42-onl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,10 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Приложение.MyFlowOperators" />
+        <item itemvalue="Приложение.Mymain_3" />
         <item itemvalue="Приложение.MyMain" />
         <item itemvalue="Приложение.SumOfDigitsOfTwoDigit" />
         <item itemvalue="Приложение.Calculator" />
-        <item itemvalue="Приложение.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +211,18 @@
     <MESSAGE value=" &quot;Evgeniy&quot;&#10;&quot;evgenii_votincev92@mail.ru&quot;" />
     <MESSAGE value=" git config user.name&quot;Evgeniy&quot;&#10;git config user.email&quot;evgenii_votincev92@mail.ru&quot;" />
     <MESSAGE value="MyMain.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyMain.java" />
+    <MESSAGE value="This commit is for my students, and explains variables in Java. Plus, operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Telega Desktop/Домашка_3/MyFlowOperators.java</url>
+          <line>245</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
