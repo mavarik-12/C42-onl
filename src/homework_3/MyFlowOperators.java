@@ -59,7 +59,7 @@ public class MyFlowOperators {
 
     public static void SumNumbers() {
         Scanner scanner = new Scanner(System.in);
-        System.out.print(" Введите целое число:");
+        System.out.print ("\r\n Введите целое число: ");
         int number = scanner.nextInt();
         int sum = 0;
         if (number > 0) {
