@@ -10,7 +10,7 @@ public class MyFlowOperators {
         temperatureChecker();
         squaresOfNumbers();
         consistently();
-        sumNumberss();
+        sumNumbers();
     }
 
     public static void displayMessage() {
