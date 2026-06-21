@@ -1,20 +1,19 @@
 package homework_3;
 
-
 import java.util.Scanner;
-
+import java.util.SplittableRandom;
 
 public class MyFlowOperators {
     public static void main(String[] args) {
 
-        displayMessage();
-        temperatureChecker();
-        squaresOfNumbers();
-        getSequenceOfNumbers();
-        sumNumbers();
+        EvenNumberOrNot();
+        TemperatureChecker();
+        SquaresOfNumbers();
+        Consistently();
+        SumNumbers();
     }
 
-    public static void displayMessage() {
+    public static void EvenNumberOrNot() {
         int number = 12;
         if (number % 2 == 0) {
             System.out.println(number + " это четное число.");
@@ -24,12 +23,12 @@ public class MyFlowOperators {
 
     }
 
-    public static void temperatureChecker() {
+    public static void TemperatureChecker() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите температуру t:");
         double t = scanner.nextDouble();
 
-        if (t > - 5) {
+        if (t > 5) {
             System.out.println("Тепло");
         } else if (-5 >= t && t > -20) {
             System.out.println("Нормально");
@@ -40,13 +39,13 @@ public class MyFlowOperators {
 
     }
 
-    public static void squaresOfNumbers() {
+    public static void SquaresOfNumbers() {
         for (int i = 10; i <= 20; i++) {
             System.out.println(i);
         }
     }
 
-    public static void getSequenceOfNumbers() {
+    public static void Consistently() {
         int a = 7;
         while (a <= 98) {
             System.out.print(a + " ");
@@ -55,26 +54,25 @@ public class MyFlowOperators {
     }
 
 
-
-   public static void sumNumbers(){
-        int number;
-        do {
-            System.out.print(" \r Пожалуйста, укажите максимальное значение от 1 до максимального числа: ");
-        }while ((number = new Scanner(System.in).nextInt()) < 1);
+    public static void SumNumbers() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print ("\r\n Введите целое число: ");
+        int number = scanner.nextInt();
         int sum = 0;
-            for (int counter = 1; counter <= number; counter ++){
-                sum +=counter;
+        if (number > 0) {
+            for (int i = 1; i <= number; i++) {
+                sum += i;
             }
-            System.out.println("Cумма значений от 1 до " + number + " равно: " + sum);
+            System.out.println(" Сумма чисел от 1 до " + number + " равна:" + sum);
+        } else if (number == 0) {
+            System.out.println(" Сумма чисел от 1 до 0 равна: 0");
+        } else {
+            System.out.println(" Пожалуйста,введите положительно целое число.");
         }
+
     }
 
-
-
-
-
-
-
+}
 
 
 

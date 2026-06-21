@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="932d4c4f-628b-4933-99ca-934e2809bf5f" name="Изменения" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_3/MyFlowOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_3/MyFlowOperators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Слияние master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Nigma/Desktop/Мои файлы/Папка для програмирования/Spring/Разработка Web/HibernateExample/C42-onl/src/Main.java",
     "project.structure.last.edited": "Проект",
