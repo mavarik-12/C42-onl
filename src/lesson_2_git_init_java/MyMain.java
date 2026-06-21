@@ -2,15 +2,15 @@ package lesson_2_git_init_java;
 
 public class MyMain {
     public static void main(String[] args) {
-        Calculator();
-        SumOfDigitsOfTwoDigit();
-        SumOfDigitsThree();
-        RoundingNumbers();
-        DivisionWithRemainder();
-        IntegerChanges();
+        calculator();
+        useSumDigits();
+        useSumOfDigitsThree();
+        getRoundingNumbers();
+        getNaturalNumbers();
+        useVariableNumbers();
     }
 
-    public static void Calculator() {
+    public static void calculator() {
         int b = 7;
         int c = 8;
         int a = 4 * (b + c - 1) / 2;
@@ -18,7 +18,7 @@ public class MyMain {
         System.out.println("c = " + c);
         System.out.println("a = " + a);
     }
-    public static void SumOfDigitsOfTwoDigit(){
+    public static void  useSumDigits(){
         int n = 26;
         if (n <10 || n > 99) {
             System.out.println();
@@ -31,7 +31,7 @@ public class MyMain {
         System.out.println("Сумма цифр:" + sum);
     }
 
-    public static void SumOfDigitsThree(){
+    public static void useSumOfDigitsThree(){
         int n = 126;
         int firstDigit = n / 100;
         int secondDigit = (n / 10)%  10;
@@ -40,14 +40,14 @@ public class MyMain {
         System.out.println (" Сумма цифры числа " + n + " равна " + sum);
     }
 
-    public static void RoundingNumbers() {
+    public static void getRoundingNumbers() {
         double value = 14.777775;
         double result = Math.ceil(value);
         System.out.println((result));
 
     }
 
-    public static void DivisionWithRemainder(){
+    public static void getNaturalNumbers(){
         int q = 21;
         int w = 8;
         int quotient = q / w;
@@ -55,7 +55,7 @@ public class MyMain {
         System.out.println(q + "/" + w + " = " + quotient + " и " + remainder);
     }
 
-    public static void IntegerChanges() {
+    public static void useVariableNumbers() {
         int a = 1;
         int b = 2;
         System.out.println("До обмена: a = " + a +", b = " + b);

@@ -10,7 +10,7 @@ public class MyFlowOperators {
         displayMessage();
         temperatureChecker();
         squaresOfNumbers();
-        consistently();
+        getSequenceOfNumbers();
         sumNumbers();
     }
 
@@ -46,34 +46,16 @@ public class MyFlowOperators {
         }
     }
 
-    public static void consistently() {
+    public static void getSequenceOfNumbers() {
         int a = 7;
         while (a <= 98) {
             System.out.print(a + " ");
             a += 7;
         }
-
-
     }
 
 
-//   public static void sumNumbers() {
-//        Scanner scanner = new Scanner(System.in);
-//        System.out.print ("\r\n Введите целое число: ");
-//        int number = scanner.nextInt();
-//        int sum = 0;
-//        if (number > 0) {
-//            for (int i = 1; i <= number; i++) {
-//                sum += i;
-//            }
-//            System.out.println(" Сумма чисел от 1 по " + number + " равна:" + sum);
-//        } else if (number == 0) {
-//            System.out.println(" Сумма чисел от 1 по 0 равна: 0");
-//        } else {
-//            System.out.println(" Пожалуйста,введите положительно целое число.");
-//        }
-//
-//    }
+
    public static void sumNumbers(){
         int number;
         do {
