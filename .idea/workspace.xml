@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="932d4c4f-628b-4933-99ca-934e2809bf5f" name="Изменения" comment="">
-      <change beforePath="$PROJECT_DIR$/src/homework_3/MyFlowOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_3/MyFlowOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_6/MyCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_6/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_7/Dentist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_7/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_7/MyClinic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_7/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_7/Surgeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_7/Therapist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +77,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "Слияние master",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Nigma/Desktop/Мои файлы/Папка для програмирования/Spring/Разработка Web/HibernateExample/C42-onl/src/Main.java",
     "project.structure.last.edited": "Проект",
@@ -78,17 +86,38 @@
     "settings.editor.selected.configurable": "vcs.Git",
     "show.migrate.to.gradle.popup": "false",
     "Приложение.Calculator.executor": "Run",
+    "Приложение.Doctor.executor": "Run",
     "Приложение.EvenNumberOrNot_3.executor": "Run",
     "Приложение.Main.executor": "Run",
     "Приложение.MultidimensionalArrays.executor": "Run",
     "Приложение.MyArrays.executor": "Run",
     "Приложение.MyArraysHomework.executor": "Run",
+    "Приложение.MyClinic.executor": "Run",
     "Приложение.MyFlowOperators.executor": "Run",
     "Приложение.MyMain.executor": "Run",
-    "Приложение.SumOfDigitsOfTwoDigit.executor": "Run"
+    "Приложение.SumOfDigitsOfTwoDigit.executor": "Run",
+    "Приложение.homework_6.MyMain.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="Приложение.MultidimensionalArrays">
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="homework_7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Приложение.MyClinic">
+    <configuration name="Doctor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_7.Doctor" />
+      <module name="C42-onl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MultidimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework_5.MultidimensionalArrays" />
       <module name="C42-onl" />
@@ -115,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFlowOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_3.MyFlowOperators" />
+    <configuration name="MyClinic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_7.MyClinic" />
       <module name="C42-onl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_3.*" />
+          <option name="PATTERN" value="homework_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,25 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_2_git_init_java.MyMain" />
+    <configuration name="homework_6.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_6.MyMain" />
       <module name="C42-onl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_2_git_init_java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mymain_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_3.Mymain_3" />
-      <module name="C42-onl" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework_3.*" />
+          <option name="PATTERN" value="homework_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Приложение.MyClinic" />
+        <item itemvalue="Приложение.homework_6.MyMain" />
+        <item itemvalue="Приложение.Doctor" />
         <item itemvalue="Приложение.MultidimensionalArrays" />
         <item itemvalue="Приложение.MyArrays" />
-        <item itemvalue="Приложение.MyFlowOperators" />
-        <item itemvalue="Приложение.Mymain_3" />
-        <item itemvalue="Приложение.MyMain" />
       </list>
     </recent_temporary>
   </component>
