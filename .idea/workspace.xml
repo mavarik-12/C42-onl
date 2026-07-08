@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="932d4c4f-628b-4933-99ca-934e2809bf5f" name="Изменения" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework_6/MyCreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_6/MyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_7/Dentist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_7/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_7/MyClinic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_7/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_7/Surgeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_7/Therapist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessTheWord/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessTheWord/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +82,8 @@
     "Приложение.Calculator.executor": "Run",
     "Приложение.Doctor.executor": "Run",
     "Приложение.EvenNumberOrNot_3.executor": "Run",
+    "Приложение.Game.executor": "Run",
+    "Приложение.GuessTheWord.executor": "Run",
     "Приложение.Main.executor": "Run",
     "Приложение.MultidimensionalArrays.executor": "Run",
     "Приложение.MyArrays.executor": "Run",
@@ -104,13 +100,13 @@
       <recent name="homework_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Приложение.MyClinic">
-    <configuration name="Doctor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_7.Doctor" />
+  <component name="RunManager" selected="Приложение.Game">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessTheWord.Game" />
       <module name="C42-onl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_7.*" />
+          <option name="PATTERN" value="GuessTheWord.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultidimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_5.MultidimensionalArrays" />
+    <configuration name="GuessTheWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessTheWord.GuessTheWord" />
       <module name="C42-onl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_5.*" />
+          <option name="PATTERN" value="GuessTheWord.Game" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_4.MyArrays" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_8.Main" />
       <module name="C42-onl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_4.*" />
+          <option name="PATTERN" value="GuessTheWord.Game" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Приложение.Game" />
+        <item itemvalue="Приложение.GuessTheWord" />
+        <item itemvalue="Приложение.Main" />
         <item itemvalue="Приложение.MyClinic" />
         <item itemvalue="Приложение.homework_6.MyMain" />
-        <item itemvalue="Приложение.Doctor" />
-        <item itemvalue="Приложение.MultidimensionalArrays" />
-        <item itemvalue="Приложение.MyArrays" />
       </list>
     </recent_temporary>
   </component>
