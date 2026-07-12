@@ -16,7 +16,7 @@ public class Game {
         currentPlayer = 1;
     }
 
-    // Вынес инициализацию в отдельный метод для удобства рестарта
+
     private void resetBoard() {
         board = new char[SIZE][SIZE];
         for (int i = 0; i < SIZE; i++) {
@@ -49,7 +49,7 @@ public class Game {
         while (true) {
             System.out.print("Введите координаты (строка столбец, от 1 до 3): ");
 
-            // Проверка: введены ли вообще числа?
+
             if (!scanner.hasNextInt()) {
                 String invalidInput = scanner.nextLine();
                 System.out.println("Пожалуйста, введите числа. Вы ввели: " + invalidInput);
@@ -76,7 +76,7 @@ public class Game {
         } while (!isCellValid(row, col));
 
         board[row][col] = O;
-        currentPlayer = 1; // Передаем ход человеку
+        currentPlayer = 1;
         System.out.println("Компьютер сделал ход: " + (row + 1) + " " + (col + 1));
     }
 
@@ -93,7 +93,7 @@ public class Game {
     }
 
     public char checkWinner() {
-        // Проверка строк
+
         for (int i = 0; i < SIZE; i++) {
             if (board[i][0] != EMPTY &&
                     board[i][0] == board[i][1] &&
@@ -102,7 +102,7 @@ public class Game {
             }
         }
 
-        // Проверка столбцов
+
         for (int j = 0; j < SIZE; j++) {
             if (board[0][j] != EMPTY &&
                     board[0][j] == board[1][j] &&
@@ -111,7 +111,7 @@ public class Game {
             }
         }
 
-        // Проверка диагоналей
+
         if (board[0][0] != EMPTY && board[0][0] == board[1][1] && board[1][1] == board[2][2]) {
             return board[0][0];
         }
@@ -138,10 +138,10 @@ public class Game {
         System.out.println("Добро пожаловать в Крестики-Нолики!");
 
         while (true) {
-            // Сброс состояния для новой партии
+
             resetBoard();
 
-            // Случайный выбор первого игрока
+
             boolean humanStarts = random.nextBoolean();
             currentPlayer = humanStarts ? 1 : 2;
 
@@ -169,7 +169,7 @@ public class Game {
                     break;
                 }
 
-                // Делаем ход
+
                 if (currentPlayer == 1) {
                     humanTurn(scanner);
                 } else {
@@ -178,13 +178,13 @@ public class Game {
                 }
             }
 
-            // Запрос на рестарт
+
             System.out.print("Хотите сыграть ещё раз? (да/нет): ");
             String answer = scanner.next().toLowerCase();
 
             if (!(answer.equals("да") || answer.equals("д"))) {
                 System.out.println("До свидания!");
-                break; // Выход из внешнего цикла игры
+                break;
             }
         }
     }
