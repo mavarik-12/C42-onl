@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="932d4c4f-628b-4933-99ca-934e2809bf5f" name="Изменения" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_8/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_8/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_8/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_8/Tiger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +105,7 @@
       <recent name="homework_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Приложение.TicTacToe.Main">
+  <component name="RunManager" selected="Приложение.Main">
     <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GuessTheWord.Game" />
       <module name="C42-onl" />
@@ -170,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Приложение.Main" />
         <item itemvalue="Приложение.TicTacToe.Main" />
         <item itemvalue="Приложение.Game.Main" />
         <item itemvalue="Приложение.Game" />
         <item itemvalue="Приложение.GuessTheWord" />
-        <item itemvalue="Приложение.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -238,10 +241,34 @@
           <line>245</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_8/Opel.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_8/Opel.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_8/Opel.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
         <breakpoint type="java-exception">
           <properties class="java.lang.InterruptedException" package="java.lang" />
           <option name="timeStamp" value="17" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_8/Opel.java</url>
+          <line>74</line>
+          <properties class="lesson_8_polym_static.Rabbit" method="voice">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
