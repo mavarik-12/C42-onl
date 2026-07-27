@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="932d4c4f-628b-4933-99ca-934e2809bf5f" name="Изменения" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework_10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_10/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_11/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_12/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,9 +93,11 @@
     &quot;Приложение.MyClinic.executor&quot;: &quot;Run&quot;,
     &quot;Приложение.MyFlowOperators.executor&quot;: &quot;Run&quot;,
     &quot;Приложение.MyMain.executor&quot;: &quot;Run&quot;,
+    &quot;Приложение.StringSorter.executor&quot;: &quot;Run&quot;,
     &quot;Приложение.SumOfDigitsOfTwoDigit.executor&quot;: &quot;Run&quot;,
     &quot;Приложение.TicTacToe.Main.executor&quot;: &quot;Run&quot;,
     &quot;Приложение.homework_10.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Приложение.homework_11.Main.executor&quot;: &quot;Run&quot;,
     &quot;Приложение.homework_6.MyMain.executor&quot;: &quot;Run&quot;,
     &quot;Приложение.homework_9.Main.executor&quot;: &quot;Run&quot;,
     &quot;Приложение.homework_9_2.Main.executor&quot;: &quot;Run&quot;
@@ -106,13 +108,13 @@
       <recent name="homework_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Приложение.homework_10.Main">
+  <component name="RunManager" selected="Приложение.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_8.Main" />
+      <option name="MAIN_CLASS_NAME" value="homework_12.Main" />
       <module name="C42-onl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GuessTheWord.Game" />
+          <option name="PATTERN" value="homework_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +122,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToe.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TicTacToe.Main" />
+    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_11.MyMain" />
       <module name="C42-onl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TicTacToe.*" />
+          <option name="PATTERN" value="homework_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSorter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_11.StringSorter" />
+      <module name="C42-onl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +154,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework_9_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_9_2.Main" />
-      <module name="C42-onl" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework_9_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Приложение.Main" />
+        <item itemvalue="Приложение.MyMain" />
+        <item itemvalue="Приложение.StringSorter" />
         <item itemvalue="Приложение.homework_10.Main" />
         <item itemvalue="Приложение.homework_9.Main" />
-        <item itemvalue="Приложение.homework_9_2.Main" />
-        <item itemvalue="Приложение.Main" />
-        <item itemvalue="Приложение.TicTacToe.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -262,6 +264,26 @@
           <line>54</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_11/MyStrings.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_11/MyStrings.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_10/Controlller/Controller.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_10/Clone/Person.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
         <breakpoint type="java-exception">
           <properties class="java.lang.InterruptedException" package="java.lang" />
           <option name="timeStamp" value="17" />
@@ -274,6 +296,87 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework_11/MyMain.java</url>
+          <line>99</line>
+          <properties class="homework_11.MyMain" method="getFindUniqueWord">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework_11/MyMain.java</url>
+          <line>16</line>
+          <properties class="homework_11.MyMain" method="getStringLength">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework_11/MyMain.java</url>
+          <line>73</line>
+          <properties class="homework_11.MyMain" method="getStringLengthFilter">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_10/Clone/Person.java</url>
+          <line>94</line>
+          <properties class="lesson_10_obj_more_interfaces.clone.MyMain" method="getStringSorter">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_10/Clone/Person.java</url>
+          <line>120</line>
+          <properties class="lesson_10_obj_more_interfaces.clone.MyMain" method="getStringLengthFilter">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_10/Clone/Person.java</url>
+          <line>181</line>
+          <properties class="lesson_10_obj_more_interfaces.clone.MyMain" method="hasUniqueChars">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_10/Clone/Person.java</url>
+          <line>149</line>
+          <properties class="lesson_10_obj_more_interfaces.clone.MyMain" method="getFindUniqueWord">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_10/Clone/Person.java</url>
+          <line>57</line>
+          <properties class="lesson_10_obj_more_interfaces.clone.MyMain" method="getStringLength">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework_11/MyMain.java</url>
+          <line>49</line>
+          <properties class="homework_11.MyMain" method="getStringSorter">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
