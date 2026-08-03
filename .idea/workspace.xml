@@ -5,9 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="932d4c4f-628b-4933-99ca-934e2809bf5f" name="Изменения" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework_11/MyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LifeBinaryCalculator/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LifeBinaryCalculator/conversion_history.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_13_regex_except/AuthValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_13_regex_except/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_13_regex_except/WrongLoginException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_13_regex_except/WrongPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_14_exc_io/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_14_exc_io/longest_word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_14_exc_io/romeo_and_juliet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_15_collections/AnimalQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_15_collections/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_15_collections/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_15_collections/StudentManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_10_obj_more_interface/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_10/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_10_obj_more_interface/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_11/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_11_strings/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_12_strings_regex/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_3/MyFlowOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_3_flow_operators/MyFlowOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_4/MyArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_4_arrays/MyArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_5/MultidimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_5_game_double_arrays/MultidimensionalArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_6/MyCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_6_classes_methods/MyCreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_6/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_6_classes_methods/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_7/Dentist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_7_OOP/Dentist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_7/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_7_OOP/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_7/MyClinic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_7_OOP/MyClinic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_7/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_7_OOP/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_7/Surgeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_7_OOP/Surgeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_7/Therapist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_7_OOP/Therapist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_8/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_8_polym_static/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_8/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_8_polym_static/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_8_polym_static/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_8/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_8_polym_static/Rabbit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_8/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_8_polym_static/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_9/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_9_abstract_interf/Accountant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_9/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_9_abstract_interf/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_9_abstract_interf/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_9/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_9_abstract_interf/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_9_2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_9_abstract_interf/homework_9_2/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_9_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_9_abstract_interf/homework_9_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_9_2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_9_abstract_interf/homework_9_2/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_9_2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_9_abstract_interf/homework_9_2/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_9_2/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_9_abstract_interf/homework_9_2/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +64,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -55,6 +96,9 @@
   <component name="OpenIdeProjectLocalState">
     <option name="firstOpen" value="false" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -64,57 +108,61 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Nigma/Desktop/Мои файлы/Папка для програмирования/Spring/Разработка Web/HibernateExample/C42-onl/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Проект&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-    &quot;Приложение.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.Doctor.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.EvenNumberOrNot_3.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.Game.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.Game.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.GuessTheWord.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.MultidimensionalArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.MyArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.MyArraysHomework.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.MyClinic.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.MyFlowOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.MyMain.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.StringSorter.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.SumOfDigitsOfTwoDigit.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.TicTacToe.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.homework_10.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.homework_11.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.homework_6.MyMain.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.homework_9.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Приложение.homework_9_2.Main.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.preview.features.used": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Nigma/Desktop/Мои файлы/Папка для програмирования/Spring/Разработка Web/HibernateExample/C42-onl/src/Main.java",
+    "project.structure.last.edited": "Проект",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "show.migrate.to.gradle.popup": "false",
+    "Приложение.Calculator.executor": "Run",
+    "Приложение.Doctor.executor": "Run",
+    "Приложение.EvenNumberOrNot_3.executor": "Run",
+    "Приложение.Game.Main.executor": "Run",
+    "Приложение.Game.executor": "Run",
+    "Приложение.GuessTheWord.executor": "Run",
+    "Приложение.LifeBinaryCalculator.MyMain.executor": "Run",
+    "Приложение.Main.executor": "Run",
+    "Приложение.MultidimensionalArrays.executor": "Run",
+    "Приложение.MyArrays.executor": "Run",
+    "Приложение.MyArraysHomework.executor": "Run",
+    "Приложение.MyClinic.executor": "Run",
+    "Приложение.MyFlowOperators.executor": "Run",
+    "Приложение.MyMain.executor": "Run",
+    "Приложение.StringSorter.executor": "Run",
+    "Приложение.SumOfDigitsOfTwoDigit.executor": "Run",
+    "Приложение.TicTacToe.Main.executor": "Run",
+    "Приложение.homework_10.Main.executor": "Run",
+    "Приложение.homework_11.Main.executor": "Run",
+    "Приложение.homework_13.MyMain.executor": "Run",
+    "Приложение.homework_14_exc_io.MyMain.executor": "Run",
+    "Приложение.homework_15_collections.MyMain.executor": "Run",
+    "Приложение.homework_6.MyMain.executor": "Run",
+    "Приложение.homework_9.Main.executor": "Run",
+    "Приложение.homework_9_2.Main.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="homework_7" />
     </key>
   </component>
-  <component name="RunManager" selected="Приложение.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_12.Main" />
+  <component name="RunManager" selected="Приложение.MyArrays">
+    <configuration name="LifeBinaryCalculator.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LifeBinaryCalculator.MyMain" />
       <module name="C42-onl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_12.*" />
+          <option name="PATTERN" value="LifeBinaryCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_11.MyMain" />
+    <configuration name="MyArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_4_arrays.MyArrays" />
       <module name="C42-onl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_11.*" />
+          <option name="PATTERN" value="homework_4_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSorter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_11.StringSorter" />
+    <configuration name="homework_13_regex_except.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_13_regex_except.MyMain" />
       <module name="C42-onl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_11.*" />
+          <option name="PATTERN" value="homework_13_regex_except.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework_10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_10.Main" />
+    <configuration name="homework_14_exc_io.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_14_exc_io.MyMain" />
       <module name="C42-onl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_10.*" />
+          <option name="PATTERN" value="homework_14_exc_io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework_9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_9.Main" />
+    <configuration name="homework_15_collections.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_15_collections.MyMain" />
       <module name="C42-onl" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_9.*" />
+          <option name="PATTERN" value="homework_15_collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Приложение.Main" />
-        <item itemvalue="Приложение.MyMain" />
-        <item itemvalue="Приложение.StringSorter" />
-        <item itemvalue="Приложение.homework_10.Main" />
-        <item itemvalue="Приложение.homework_9.Main" />
+        <item itemvalue="Приложение.MyArrays" />
+        <item itemvalue="Приложение.LifeBinaryCalculator.MyMain" />
+        <item itemvalue="Приложение.homework_15_collections.MyMain" />
+        <item itemvalue="Приложение.homework_14_exc_io.MyMain" />
+        <item itemvalue="Приложение.homework_13_regex_except.MyMain" />
       </list>
     </recent_temporary>
   </component>
@@ -284,6 +332,70 @@
           <line>32</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_13/MyExceptions.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework_14_exc_io/MyMain.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_14/MyException.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_15/MyCollections.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_15/MyCollections.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_15/MyCollections.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_15/MyCollections.java</url>
+          <line>190</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_15/MyCollections.java</url>
+          <line>193</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_15/MyCollections.java</url>
+          <line>306</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_15/MyCollections.java</url>
+          <line>444</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_15/MyCollections.java</url>
+          <line>453</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework_4_arrays/MyArrays.java</url>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Домашние задания по Java/Домашка_4/MyArraysHomework.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
         <breakpoint type="java-exception">
           <properties class="java.lang.InterruptedException" package="java.lang" />
           <option name="timeStamp" value="17" />
@@ -298,27 +410,27 @@
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/homework_11/MyMain.java</url>
+          <url>file://$PROJECT_DIR$/src/homework_11_strings/MyMain.java</url>
           <line>99</line>
-          <properties class="homework_11.MyMain" method="getFindUniqueWord">
+          <properties class="homework_11_strings.MyMain" method="getFindUniqueWord">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/homework_11/MyMain.java</url>
+          <url>file://$PROJECT_DIR$/src/homework_11_strings/MyMain.java</url>
           <line>16</line>
-          <properties class="homework_11.MyMain" method="getStringLength">
+          <properties class="homework_11_strings.MyMain" method="getStringLength">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/homework_11/MyMain.java</url>
+          <url>file://$PROJECT_DIR$/src/homework_11_strings/MyMain.java</url>
           <line>73</line>
-          <properties class="homework_11.MyMain" method="getStringLengthFilter">
+          <properties class="homework_11_strings.MyMain" method="getStringLengthFilter">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -370,9 +482,9 @@
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/homework_11/MyMain.java</url>
+          <url>file://$PROJECT_DIR$/src/homework_11_strings/MyMain.java</url>
           <line>49</line>
-          <properties class="homework_11.MyMain" method="getStringSorter">
+          <properties class="homework_11_strings.MyMain" method="getStringSorter">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
